@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menuka Anujitha</h1>
 <h3 align="center">A passionate flutter from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<p align="center"> <img src="https://www.pinterest.com/pin/226305950012898259" /> </p>
 
 ---
 
