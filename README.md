@@ -50,7 +50,6 @@ Hi, my name is menuka, I'm a Flutter Developer, makes world in bits.
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -98,8 +97,12 @@ Windows                  31 hrs 24 mins      ███████████�
   <a href="https://github.com/menukaAnujitha">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menukaAnujitha&theme=radical" alt="Menuka's GitHub Contribution"/>
   </a>
+  
 </p>
+
 <img src="/assets/images/horizontal-divider-gradient.gif">
+
+
 <a> 
     <a href="https://github.com/menukaAnujitha"><img alt="Menuka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=menukaAnujitha&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/menukaAnujitha"><img alt="Menuka's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=menukaAnujitha&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -107,6 +110,8 @@ Windows                  31 hrs 24 mins      ███████████�
 </a>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
+
+
 ![menuka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=menukaAnujitha&custom_title=Menuka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
