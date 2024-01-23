@@ -8,7 +8,7 @@
 <h3 align="center">flutter Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
-
+<p align="center"> 
 ---------------I’m currently learning **Flutter mobile application development**---------------
 
 ---------------**menukaanujitha8@gmail.com**---------------
