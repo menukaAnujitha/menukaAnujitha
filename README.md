@@ -9,9 +9,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
 
----------------------------------------------I’m currently learning **Flutter mobile application development**-------------------------------
+---------------I’m currently learning **Flutter mobile application development**---------------
 
- ---------------------------------------------------------------**menukaanujitha8@gmail.com**------------------------------------------------
+---------------**menukaanujitha8@gmail.com**---------------
 
 
 
