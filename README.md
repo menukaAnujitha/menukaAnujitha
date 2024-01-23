@@ -9,18 +9,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
 
- - -----------------------------------I’m currently learning **Flutter mobile application development**------------------------------------------------
+--------------------------------------I’m currently learning **Flutter mobile application development**--------------------------------------
 
-- 👨‍💻 All of my projects are available at [Git](Git)
+ --------------------------------------------------------**menukaanujitha8@gmail.com**-------------------------------------------------------
 
-- 📫 How to reach me **menukaanujitha8@gmail.com**
 
-- 📄 Know about my experiences [Link](Link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/menuka-anujitha-342916191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menuka-anujitha-342916191" height="30" width="40" /></a>
-<a href="https://medium.com/@menukaanujitha8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@menukaanujitha8" height="30" width="40" /></a>
+
 </p>
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <h3 align="left">Languages and Tools:</h3>
