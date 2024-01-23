@@ -47,10 +47,11 @@ new Person({
 D:\Users\menuka> node index.js
 Hi, my name is menuka, I'm a Flutter Developer, makes world in bits.
 ```
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
