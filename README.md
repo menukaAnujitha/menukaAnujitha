@@ -28,28 +28,24 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-<a href="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
+
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { menuka } from 'Sri Lanka';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
-    married: !!!true,
+    name   : 'Menuka Anujitha',
+    title  : 'Flutter Developer',
+    email  : 'menukaanujitha8@gmail.com',
+    website: 'https://menuka.lk',
+    married: !!!false,
 }).sayHello();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Users\menuka> node index.js
+Hi, my name is menuka, I'm a Flutter Developer, makes world in bits.
 ```
 
 <div align="center">
@@ -70,14 +66,14 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone:  Sri Lanka (GMT+5:30)
 
 💬 Programming Languages: 
-TypeScript               30 hrs 8 mins       ████████████████████████░   95.94 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Prisma                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Flutter               30 hrs 8 mins       ████████████████████████░   95.94 % 
+Firebase              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Java                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+PHP                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JavaScript            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
 VS Code                  31 hrs 24 mins      █████████████████████████   100.00 % 
@@ -93,25 +89,25 @@ Windows                  31 hrs 24 mins      ███████████�
 </div>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/menukaAnujitha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Menuka's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/menukaAnujitha">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Menuka's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/menukaAnujitha"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/menukaAnujitha"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![menuka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!--x axis divider-->
@@ -126,7 +122,7 @@ Windows                  31 hrs 24 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,jest,jquery,vite,bootstrap,astro,sentry,cloudflare,arduino,redux,prisma,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,c,cpp,java,php,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,jest,jquery,vite,bootstrap,astro,sentry,cloudflare,redux,prisma,svelte&perline=11" />
 </a>
 </p>
 
