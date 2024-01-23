@@ -9,14 +9,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
 
---------------------------------------I’m currently learning **Flutter mobile application development**--------------------------------------
+------------------------------------------I’m currently learning **Flutter mobile application development**----------------------------------
 
- --------------------------------------------------------**menukaanujitha8@gmail.com**-------------------------------------------------------
+ -----------------------------------------------------------**menukaanujitha8@gmail.com**----------------------------------------------------
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with Me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/menuka-anujitha-342916191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menuka-anujitha-342916191" height="30" width="40" /></a>
 
 </p>
