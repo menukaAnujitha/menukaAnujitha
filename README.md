@@ -202,4 +202,4 @@ Windows                  31 hrs 24 mins      ███████████�
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/menuka_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="menuka_" /></a></p><br><br>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=menukaanujitha&show_icons=true&locale=en&layout=compact" alt="menukaanujitha" /></p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
