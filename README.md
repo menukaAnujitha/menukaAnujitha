@@ -10,10 +10,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menukaanujitha&label=Profile%20views&color=0e75b6&style=flat" alt="menukaanujitha" /> </p>
 <p align="center"> 
 ---------------I’m currently learning **Flutter mobile application development**---------------
-
+<p align="center"> 
 ---------------**menukaanujitha8@gmail.com**---------------
-
-
 
 </p>
 <img src="/assets/images/horizontal-divider-gradient.gif">
