@@ -96,18 +96,18 @@ Windows                  31 hrs 24 mins      ███████████�
 
 <p align="center">
   <a href="https://github.com/menukaAnujitha">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Menuka's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menukaAnujitha&theme=radical" alt="Menuka's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/menukaAnujitha"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/menukaAnujitha"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/menukaAnujitha"><img alt="Menuka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=menukaAnujitha&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/menukaAnujitha"><img alt="Menuka's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=menukaAnujitha&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![menuka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![menuka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=menukaAnujitha&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!--x axis divider-->
