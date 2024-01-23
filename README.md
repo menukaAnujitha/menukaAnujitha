@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Menuka Anujitha</h1>
 <h3 align="center">flutter Developer from Sri Lanka</h3>
 
