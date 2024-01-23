@@ -15,10 +15,6 @@
 
 
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/menuka-anujitha-342916191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menuka-anujitha-342916191" height="30" width="40" /></a>
-
 </p>
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <h3 align="center">Languages and Tools</h2>
@@ -29,7 +25,7 @@
 
 
 
-<picture>
+<picture align="center">>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -44,7 +40,7 @@
   />
 </picture>
 
-
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 ```js
 "use creativity";
