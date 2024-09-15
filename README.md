@@ -47,7 +47,7 @@ import { menuka } from 'Sri Lanka';
 new Person({
     name   : 'Menuka Anujitha',
     title  : 'Flutter Developer',
-    email  : 'menukaanujitha8@gmail.com',
+    email  : 'anujitha.dev@gmail.com',
     website: 'https://menuka.lk',
     married: !!!false,
 }).sayHello();
