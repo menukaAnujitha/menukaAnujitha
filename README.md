@@ -11,7 +11,7 @@
 <p align="center"> 
 --------------- I’m currently learning Flutter mobile application development --------------- </p>
 <p align="center"> 
---------------- menukaanujitha8@gmail.com ---------------
+--------------- anujitha.dev@gmail.com ---------------
 
 </p>
 <img src="/assets/images/horizontal-divider-gradient.gif">
